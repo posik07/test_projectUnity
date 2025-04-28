@@ -12,5 +12,4 @@ Pirmais Unity 2D projekts apgūstam UI elementam
 - [ ] Collider 2D un Rigidbody 2D 9fizikas spēku iedarbība)
 - [ ] Virtuļu spavneris
 
-
 ![Bean](https://github.com/user-attachments/assets/553bc8a3-3056-4c03-b23b-987e19df31c7)
