@@ -2,11 +2,11 @@
 Pirmais Unity 2D projekts apgūstam UI elementam 
 
 **Darāmo darbu saraksts:**
-- [ ] Button, Input field un text elementu lietotajums
-- [ ] Canvas izmēra pielāgošana
-- [ ] CheckBox, Dropdown un slider elementu lietojums
-- [ ] Pirmā C# sktipta izveide
-- [ ] Audio source ieviešana
+- [x] Button, Input field un text elementu lietotajums
+- [x] Canvas izmēra pielāgošana
+- [x] CheckBox, Dropdown un slider elementu lietojums
+- [x] Pirmā C# sktipta izveide
+- [x] Audio source ieviešana
 - [ ] Scrollview elementa lietojums
 - [ ] Otrās ainas (scene) ieviešana
 - [ ] Collider 2D un Rigidbody 2D 9fizikas spēku iedarbība)
