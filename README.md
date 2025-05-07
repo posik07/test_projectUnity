@@ -7,7 +7,7 @@ Pirmais Unity 2D projekts apgūstam UI elementam
 - [x] CheckBox, Dropdown un slider elementu lietojums
 - [x] Pirmā C# sktipta izveide
 - [x] Audio source ieviešana
-- [ ] Scrollview elementa lietojums
+- [x] Scrollview elementa lietojums
 - [x] Otrās ainas (scene) ieviešana
 - [x] Collider 2D un Rigidbody 2D 9fizikas spēku iedarbība)
 - [x] Virtuļu spavneris
