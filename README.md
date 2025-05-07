@@ -8,8 +8,8 @@ Pirmais Unity 2D projekts apgūstam UI elementam
 - [x] Pirmā C# sktipta izveide
 - [x] Audio source ieviešana
 - [ ] Scrollview elementa lietojums
-- [ ] Otrās ainas (scene) ieviešana
-- [ ] Collider 2D un Rigidbody 2D 9fizikas spēku iedarbība)
-- [ ] Virtuļu spavneris
+- [x] Otrās ainas (scene) ieviešana
+- [x] Collider 2D un Rigidbody 2D 9fizikas spēku iedarbība)
+- [x] Virtuļu spavneris
 
 ![Bean](https://github.com/user-attachments/assets/553bc8a3-3056-4c03-b23b-987e19df31c7)
