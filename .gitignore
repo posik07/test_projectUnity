@@ -72,3 +72,7 @@ crashlytics-build.properties
 # Temporary auto-generated Android Assets
 /[Aa]ssets/[Ss]treamingAssets/aa.meta
 /[Aa]ssets/[Ss]treamingAssets/aa/*
+
+# Unity Package Cache — содержит большие системные файлы, не пушим
+/[Pp]ackages/PackageCache/
+/[Pp]ackages/com.unity.*
